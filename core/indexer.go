@@ -6,8 +6,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/huichen/wukong/types"
-	"github.com/huichen/wukong/utils"
+	"github.com/LiuRoy/bajie/types"
+	"github.com/LiuRoy/bajie/utils"
 )
 
 // 索引器

@@ -1,7 +1,7 @@
 package engine
 
 import (
-	"github.com/huichen/wukong/types"
+	"github.com/LiuRoy/bajie/types"
 )
 
 type segmenterRequest struct {
